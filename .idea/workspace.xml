@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b9350c9-6c5c-4702-b17e-60bb6d75f598" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/simple/src/simple/files/hallo-__name@dasherize__/hallo-__name@dasherize__.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/src/simple/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/simple/src/simple/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simple/src/simple/schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/simple/src/simple/schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/simple/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/simple/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581875573998</updated>
-      <workItem from="1581875575494" duration="20359000" />
+      <workItem from="1581875575494" duration="20619000" />
     </task>
     <servers />
   </component>
