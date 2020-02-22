@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "id": "HelloSchematics",
+  "title": "Hello Configuration",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The name of the Person",
+      "$default": {
+        "$source": "argv",
+        "index": 0
+      },
+      "x-prompt": "what is the name please?  exmaple --name=mo "
+    }
+  },
+  "required": [
+    "name"
+  ]
+}
