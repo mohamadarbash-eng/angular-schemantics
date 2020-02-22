@@ -24,5 +24,6 @@ npm run build
 npm publish
 ```
 
-That's it!
- 
+* we only commit changes to the tree if EVERY schematics ran successfully
+* we can preview changes without actually making them ( with --dry-run flag)
+* the whole process is faster as the I/O operations ( writing files to disk ) happens only at the end of the processing
