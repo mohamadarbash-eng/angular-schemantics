@@ -3,7 +3,8 @@
   "schematics": {
     "simple": {
       "description": "A blank schematic.",
-      "factory": "./simple/index#simple"
+      "factory": "./simple/index#simple",
+      "schema": "./simple/schema.json"
     }
   }
 }
